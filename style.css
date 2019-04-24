@@ -1,0 +1,160 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+body {
+	width: 100%;
+	height: 100%;
+	background-color:#E8E1D1;
+}
+
+.barra-preta {
+	position: absolute;
+	width: 100%;
+	height: 240px;
+	background-color:black;
+	transition: all 0.3s ease-in-out;
+
+}
+.menu {
+	position: absolute;
+	background-color: #A9A9A9;
+	width: 40%;
+	right: 31%;
+	height: 70px;
+	top:240px;
+	transition: all 0.3s ease-in-out;
+	
+}
+.foto {
+	border-radius: 5%;
+	position: absolute;
+	right:45%;
+	width:232px;
+	height: 240px;
+	position: center;
+	transition: all 0.3s ease-in-out;
+}
+.menu ul p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	text-align: center;
+
+}
+.informacoes{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	position: absolute;
+	height: 300px;
+	top:310px;
+	width: 40%;
+	right: 31%;
+	background-color: red: 
+	transition: all 0.3s ease-in-out;
+
+
+}
+
+.setasD{
+	position: fixed;
+	right: 15%;
+	top:500px;
+	width:100px;
+	height: 100px;
+}
+.setasE{
+	position: fixed;
+	right: 85%;
+	top:500px;
+	width:100px;
+	height: 100px;
+}
+.icones1{
+	position: absolute;
+	right: 47%;
+	top:800px;
+	width:50px;
+	height: 50px;
+}
+.icones2{
+	position: absolute;
+	right: 53%;
+	top:800px;
+	width:50px;
+	height: 50px;
+}
+table{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	position: absolute;
+	top:800px; 
+	right: 40%;
+	border-spacing: 10px;
+	border-collapse:10px;
+
+}
+.icones11{
+	position: absolute;
+	right: 47%;
+	top:1100px;
+	width:50px;
+	height: 50px;
+}
+.icones21{
+	position: absolute;
+	right: 53%;
+	top:1100px;
+	width:50px;
+	height: 50px;
+}
+.setasE:hover {
+	width:110px;
+	height: 110px;
+}
+.setasD:hover {
+	width:110px;
+	height: 110px;
+}
+.icones1:hover{
+	
+	width:60px;
+	height:60px;
+}
+.icones2:hover{
+	
+	width:60px;
+	height:60px;
+}
+.icones11:hover{
+	
+	width:60px;
+	height:60px;
+}
+.icones21:hover{
+	
+	width:60px;
+	height:60px;
+}
+.setaCima {
+	position: absolute;
+	top:245px;
+	left: 25%;
+
+}
+.setaBaixo {
+	position: absolute;
+	top:0px;
+	left: 25%;
+}
+.setaCima:hover{
+	
+	width:52px;
+	height:52px;
+}
+.setaBaixo:hover{
+	
+	width:52px;
+	height:52px;
+}
+
+
